@@ -1,0 +1,4 @@
+systemProp.sonar.host.url=http://18.230.56.239:9000/
+#systemProp.sonar.login=2a802eb43ac10855c65061d0f23fa2737ab92f76
+sonar.login=admin
+sonar.password=admin
